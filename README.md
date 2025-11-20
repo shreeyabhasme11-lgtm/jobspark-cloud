@@ -14,17 +14,6 @@ A modern, user-friendly job application portal designed for cloud technology com
 ## Project info
 
 **URL**: https://lovable.dev/projects/0fdce31d-601f-477f-9f5c-fda36f961ff4
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/0fdce31d-601f-477f-9f5c-fda36f961ff4) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
